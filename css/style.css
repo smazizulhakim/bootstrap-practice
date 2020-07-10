@@ -1,0 +1,22 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.box{
+	min-height: 100px;
+	background-color: tomato;
+}
+.box h1{
+	font-size: 60px;
+	color: #fff;
+}
+.box1{
+	min-height: 100px;
+	background-color: aqua;
+	margin-top: 10px;
+}
+.box2{
+	min-height: 100px;
+	background-color: purple;
+	margin-top: 10px;
+}
